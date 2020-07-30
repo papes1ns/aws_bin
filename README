@@ -1,0 +1,3 @@
+This project contains various AWS helper scripts. These scripts were developed
+to help connect to an instance that is running an ECS task. These scripts are
+helpful when running a cluster with many different types of instances and services.
